@@ -7,4 +7,4 @@ my_dpi.exp
 my_dpi.lib
 transcript
 vsim_stacktrace.vstf
-env/
+env/                                                                                            
