@@ -1,0 +1,10 @@
+.vscode/
+__pycache__
+work/
+dpi_c_wrapper.obj
+my_dpi.dll
+my_dpi.exp
+my_dpi.lib
+transcript
+vsim_stacktrace.vstf
+env/
